@@ -2,6 +2,21 @@
 
 A results-driven and resourceful Data Analyst with a passion for numerical-based solutions. I have become proficient in a diverse range of programming languages and thrive in fostering innovative techniques and concepts in data analytics to ensure quality in data and modelling solutions. My journey in data analytics has honed my ability to design and produce intricate data models while adeptly interpreting complex datasets. With a strong emphasis on analytical thinking and problem-solving, I approach challenges with a thoughtful and open-minded mindset, carefully weighing various perspectives to make well-informed decisions. Aspiring to leverage my analytical prowess and technical expertise, I am now actively seeking a full-time Data Scientist position.
 
+My Top 3 Hard Skills:                                 
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| SQL       |
+|     2| Python    |
+|     3| R         |
+
+My Top 3 Soft Skills:
+
+| Rank | Languages     |
+|-----:|---------------|
+|     1| Communication |
+|     2| Teamwork      |
+|     3| Adaptability  |
 
 
 <!--
